@@ -1,3 +1,26 @@
+## rqt_image_view (melodic) - 0.4.14-1
+
+The packages in the `rqt_image_view` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic rqt_image_view` on `Fri, 10 Jan 2020 19:17:51 -0000`
+
+The `rqt_image_view` package was released.
+
+Version of package(s) in repository `rqt_image_view`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_image_view.git
+- release repository: https://github.com/ros-gbp/rqt_image_view-release.git
+- rosdistro version: `0.4.13-0`
+- old version: `0.4.13-1`
+- new version: `0.4.14-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.15`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## rqt_image_view (kinetic) - 0.4.13-0
 
 The packages in the `rqt_image_view` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -r kinetic -t kinetic rqt_image_view` on `Mon, 09 Jul 2018 16:28:21 -0000`
