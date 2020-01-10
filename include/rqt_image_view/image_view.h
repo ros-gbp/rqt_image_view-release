@@ -49,6 +49,7 @@
 #include <QImage>
 #include <QList>
 #include <QString>
+#include <QSet>
 #include <QSize>
 #include <QWidget>
 
@@ -75,6 +76,8 @@ public:
   virtual void restoreSettings(const qt_gui_cpp::Settings& plugin_settings, const qt_gui_cpp::Settings& instance_settings);
 
 protected slots:
+
+  virtual void setColorSchemeList();
 
   virtual void updateTopicList();
 
