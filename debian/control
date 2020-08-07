@@ -1,0 +1,12 @@
+Source: ros-melodic-rqt-image-view
+Section: misc
+Priority: optional
+Maintainer: Dirk Thomas <dthomas@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), qtbase5-dev, ros-melodic-catkin, ros-melodic-cv-bridge, ros-melodic-geometry-msgs, ros-melodic-image-transport, ros-melodic-rqt-gui, ros-melodic-rqt-gui-cpp, ros-melodic-sensor-msgs
+Homepage: http://wiki.ros.org/rqt_image_view
+Standards-Version: 3.9.2
+
+Package: ros-melodic-rqt-image-view
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-cv-bridge, ros-melodic-geometry-msgs, ros-melodic-image-transport, ros-melodic-rqt-gui, ros-melodic-rqt-gui-cpp, ros-melodic-sensor-msgs
+Description: rqt_image_view provides a GUI plugin for displaying images using image_transport.
