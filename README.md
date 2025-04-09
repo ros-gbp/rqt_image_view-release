@@ -1,3 +1,26 @@
+## rqt_image_view (noetic) - 0.4.18-1
+
+The packages in the `rqt_image_view` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic rqt_image_view` on `Wed, 09 Apr 2025 23:55:58 -0000`
+
+The `rqt_image_view` package was released.
+
+Version of package(s) in repository `rqt_image_view`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_image_view.git
+- release repository: https://github.com/ros-gbp/rqt_image_view-release.git
+- rosdistro version: `0.4.17-1`
+- old version: `0.4.17-1`
+- new version: `0.4.18-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## rqt_image_view (noetic) - 0.4.17-1
 
 The packages in the `rqt_image_view` repository were released into the `noetic` distro by running `/opt/homebrew/bin/bloom-release -r noetic -t noetic rqt_image_view` on `Tue, 14 Mar 2023 08:29:48 -0000`
